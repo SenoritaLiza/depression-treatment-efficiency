@@ -137,13 +137,8 @@ jupyter notebook "Прогноз_эффективности_КПТ.ipynb"
 
 ---
 
-## 👤 Автор
+## 👤 SenoritaLiza
 
-**[Ваше имя]**  
-[GitHub](https://github.com/<ваш-username>) · [LinkedIn](https://linkedin.com/in/<ваш-профиль>)
+**[Ныркова Елизавета]**  
+[GitHub](https://github.com/SenoritaLiza) · [LinkedIn](https://linkedin.com/in/SenoritaLiza)
 
----
-
-## 📄 Лицензия
-
-Этот проект распространяется под лицензией [MIT](LICENSE).
