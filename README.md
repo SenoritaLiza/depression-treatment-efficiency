@@ -89,7 +89,7 @@ depression-treatment-efficiency/
 ### 1. Клонировать репозиторий
 
 ```bash
-git clone https://github.com/<ваш-username>/depression-treatment-efficiency.git
+git clone https://github.com/SenoritaLiza/depression-treatment-efficiency.git
 cd depression-treatment-efficiency
 ```
 
@@ -111,7 +111,7 @@ jupyter notebook "Прогноз_эффективности_КПТ.ipynb"
 
 Или открыть через Google Colab:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/<ваш-username>/depression-treatment-efficiency/blob/main/Прогноз_эффективности_КПТ.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SenoritaLiza/depression-treatment-efficiency/blob/main/Прогноз_эффективности_КПТ.ipynb)
 
 ---
 
