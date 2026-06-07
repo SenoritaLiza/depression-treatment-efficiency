@@ -1,0 +1,50 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Jupyter
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+*.ipynb_tmp
+
+# Виртуальные окружения
+venv/
+env/
+.env/
+.venv/
+ENV/
+
+# Данные (не коммитим тяжёлые CSV/Excel файлы)
+*.csv
+*.xlsx
+*.xls
+# Если хотите включить датасет — закомментируйте строку выше
+
+# Модели (сохранённые)
+*.pkl
+*.joblib
+*.h5
+*.pt
+*.pth
+
+# IDE и редакторы
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+Thumbs.db
+
+# Логи
+*.log
+logs/
